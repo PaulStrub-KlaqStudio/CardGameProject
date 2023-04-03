@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1744d1f6e64cbd04db638485ee684429
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - ImageCardBase: {fileID: 21300000, guid: 68e5a78013e33f247822a837e55b0ab4, type: 3}
+  - ImageActionArea: {fileID: 21300000, guid: 68e5a78013e33f247822a837e55b0ab4, type: 3}
+  - CardPrefab: {fileID: 6572705068120127228, guid: 357d1b88d2954834792030401f75143a, type: 3}
+  - CardPrefabUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

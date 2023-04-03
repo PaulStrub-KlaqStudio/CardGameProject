@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fc4f74aa8809ca459421180ff20ba0b, type: 3}
+  m_Name: Action5
+  m_EditorClassIdentifier: 
+  ActionList:
+  - Action: {fileID: 11400000, guid: aecdfcc9b70cf6e48b85edbc15cfff84, type: 2}
+    ActionValue: 1
+  - Action: {fileID: 11400000, guid: 0215ed88d433eed49b6fc55587543f37, type: 2}
+    ActionValue: 1
+  - Action: {fileID: 11400000, guid: 7f2ca2b1b996fdd44b9c0811c9abe0aa, type: 2}
+    ActionValue: 1
+  - Action: {fileID: 11400000, guid: 3111a77519cab104292e5fc41c1c7975, type: 2}
+    ActionValue: 6
+  Exhaust: 6
+  Description: defausse 1 selectionne 1 et sacrifie main et pioche 1
+  Name: Action5
