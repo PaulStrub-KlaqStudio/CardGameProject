@@ -68,8 +68,6 @@ public class TestTool : EditorWindow
     public static void ShowWindow()
     {
         GetWindow(typeof(TestTool)).Show();
-        GetWindow(typeof(TestTool)).maxSize = new Vector2(215f, 110f);
-        GetWindow(typeof(TestTool)).minSize = GetWindow(typeof(TestTool)).maxSize;
 
     } // lance la fenêtre
 
@@ -555,7 +553,6 @@ public class TestTool : EditorWindow
     // génère l'action et la remplace si une action faisant exactement la meme chose existe
     void GenerateAction(ScriptableAction actionCurrent)
     {
-
             ScriptableAction so = new ScriptableAction();
             if (!CanSimplifyCreation(actionCurrent, out so))
             {
